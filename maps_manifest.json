@@ -1,0 +1,11 @@
+{
+  "version": 3.2,
+  "regions": [
+    {
+      "id": "mh_region",
+      "name": "Maharashtra Offline Map",
+      "map_url": "https://github.com/aniketbedarkar/Navigation/releases/download/v1.0/mapdata.map",
+      "routing_url": "https://github.com/aniketbedarkar/Navigation/releases/download/v1.0/graphhopper.zip"
+    }
+  ]
+}
