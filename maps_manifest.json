@@ -6,6 +6,12 @@
       "name": "Maharashtra Offline Map",
       "map_url": "https://github.com/aniketbedarkar/Navigation/releases/download/v1.0/mapdata.map",
       "routing_url": "https://github.com/aniketbedarkar/Navigation/releases/download/v1.0/graphhopper.zip"
+    },
+    {
+      "id": "india_region",
+      "name": "India Offline Map",
+      "map_url": "https://github.com/aniketbedarkar/Navigation/releases/download/v1.0_gh3.2_india/mapdata.map",
+      "routing_url": "https://github.com/aniketbedarkar/Navigation/releases/download/v1.0_gh3.2_india/graphhopper.zip"
     }
   ]
 }
